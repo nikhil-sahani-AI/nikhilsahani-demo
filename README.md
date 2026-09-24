@@ -2,7 +2,7 @@
 This is my first Animated login page .
 <br>
 author-NIKHIL SAHANI
-<br.
+<br>
 <!DOCTYPE html>
 <html lang="en">
 
